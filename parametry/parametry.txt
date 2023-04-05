@@ -1,0 +1,15 @@
+ile_tur 500
+ile_daje_jedzenie 5
+ile_rośnie_jedzenie 2
+koszt_tury 2
+spis_instr lpwij
+pocz_ile_robów 5
+pocz_energia 25
+pocz_progr wili
+pr_powielenia 0.3
+ułamek_energii_rodzica 0.25
+limit_powielenia 8
+pr_zmiany_instr 0.5
+pr_usunięcia_instr 0.5
+pr_dodania_instr 0.5
+co_ile_wypisz 10
